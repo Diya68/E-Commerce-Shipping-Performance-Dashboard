@@ -141,3 +141,26 @@ The project was built using the following technologies and tools:
 - Data Visualization
 - Business Intelligence
 
+# Features
+
+- Interactive KPI Dashboard
+- Dynamic Filtering
+- Warehouse Performance Analysis
+- Delivery Performance Monitoring
+- Customer Insights
+- Product Analytics
+- Clean Dark-Themed Dashboard
+- Business-Oriented Visual Storytelling
+
+# Dashboard Preview
+
+# Future Enhancements
+
+- Multi-page executive dashboard
+- Monthly and yearly trend analysis
+- Predictive delivery insights
+- Drill-through reports
+- Row-Level Security (RLS)
+- Power BI Service deployment
+
+

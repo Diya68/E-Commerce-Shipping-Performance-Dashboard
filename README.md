@@ -36,16 +36,6 @@ This project demonstrates practical skills in data transformation with Power Que
 - 🎛 **4 Interactive Slicers**
 - 📉 **6+ Interactive Visualizations**
 
-# 📊 Key Performance Indicators (KPIs)
-
-- Total Orders
-- Average Product Cost
-- Average Customer Rating
-- Average Discount Offered
-- Average Product Weight
-- On-Time Delivery Percentage
-- Delayed Delivery Percentage
-
 # 📊 Dashboard Visualizations
 
 The dashboard consists of interactive KPI cards, charts, and slicers designed to provide a comprehensive overview of e-commerce shipping performance.
@@ -56,6 +46,10 @@ Displays key business metrics to provide a quick overview of shipping performanc
 - 📦 Total Orders
 - 💰 Average Product Cost
 - 🏷 Average Discount Offered
+- ⭐ Average Customer Rating
+- ⚖️ Average Product Weight
+- ✅ On-Time Delivery Percentage
+- ⏱️ Delayed Delivery Percentage
 
 ---
 

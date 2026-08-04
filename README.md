@@ -23,3 +23,15 @@ This project demonstrates practical skills in data transformation with Power Que
 - Evaluate product importance and average product cost.
 - Analyze customer ratings and shipping trends.
 - Build an interactive dashboard for business decision-making.
+
+# 📈 Dashboard Highlights
+
+### Dataset
+
+- 📦 **10,999 Shipping Records**
+- 📊 **12+ Business Attributes**
+- 📄 **1 Interactive Dashboard Page**
+- 📈 **10+ DAX Measures**
+- 🧮 **3 Calculated Columns**
+- 🎛 **4 Interactive Slicers**
+- 📉 **6+ Interactive Visualizations**

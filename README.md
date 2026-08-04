@@ -121,3 +121,23 @@ The dashboard supports dynamic filtering using:
 
 These slicers allow users to explore insights from multiple business perspectives.
 
+# Key Business Insights
+
+- Warehouse **F** processed the highest number of orders.
+- Nearly **60%** of shipments were delivered on time.
+- **Ship** is the most frequently used shipment mode.
+- **Medium-priority** products represent the largest share of orders.
+- Product costs remain relatively consistent across importance categories.
+
+# Tech Stack
+
+The project was built using the following technologies and tools:
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- CSV Dataset
+- Data Visualization
+- Business Intelligence
+

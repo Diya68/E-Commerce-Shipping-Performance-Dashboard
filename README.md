@@ -45,3 +45,85 @@ This project demonstrates practical skills in data transformation with Power Que
 - Average Product Weight
 - On-Time Delivery Percentage
 - Delayed Delivery Percentage
+
+# 📊 Dashboard Visualizations
+
+The dashboard consists of interactive KPI cards, charts, and slicers designed to provide a comprehensive overview of e-commerce shipping performance.
+
+### 1️⃣ KPI Cards
+Displays key business metrics to provide a quick overview of shipping performance.
+
+- 📦 Total Orders
+- 💰 Average Product Cost
+- 🏷 Average Discount Offered
+
+---
+
+### 2️⃣ Order Count by Warehouse Block
+**Visualization:** Clustered Column Chart
+
+Compares the number of orders processed by each warehouse block (A, B, C, D, and F), helping identify the busiest warehouse and operational workload distribution.
+
+---
+
+### 3️⃣ Delivery Status Distribution
+**Visualization:** Donut Chart
+
+Displays the proportion of **On-Time** and **Delayed** deliveries, enabling quick assessment of overall delivery performance.
+
+---
+
+### 4️⃣ Product Importance Distribution
+**Visualization:** Treemap
+
+Shows the distribution of orders across **Low**, **Medium**, and **High** product importance categories, helping understand order priorities.
+
+---
+
+### 5️⃣ Shipment Mode Distribution
+**Visualization:** Pie Chart
+
+Analyzes the percentage of orders delivered through different shipment methods:
+
+- 🚢 Ship
+- ✈ Flight
+- 🚚 Road
+
+---
+
+### 6️⃣ Warehouse Performance by Delivery Status
+**Visualization:** 100% Stacked Column Chart
+
+Compares **On-Time** and **Delayed** deliveries for each warehouse block, making it easy to identify warehouses with better delivery performance.
+
+---
+
+### 7️⃣ Average Product Cost by Product Importance
+**Visualization:** Clustered Bar Chart
+
+Compares the average product cost across High, Medium, and Low priority products to identify pricing trends.
+
+---
+
+## 🎛 Interactive Filters (Slicers)
+
+The dashboard includes dynamic slicers that allow users to filter the report and perform detailed analysis.
+
+- 🏢 Warehouse Block
+- 👤 Gender
+- 🚚 Shipment Mode
+- 📦 Product Importance
+
+All visualizations update instantly based on the selected filters, providing an interactive and user-friendly analytical experience.
+
+# 🎛 Interactive Filters
+
+The dashboard supports dynamic filtering using:
+
+- Warehouse Block
+- Shipment Mode
+- Product Importance
+- Gender
+
+These slicers allow users to explore insights from multiple business perspectives.
+

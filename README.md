@@ -153,6 +153,7 @@ The project was built using the following technologies and tools:
 - Business-Oriented Visual Storytelling
 
 # Dashboard Preview
+!(images/D1.png)
 
 # Future Enhancements
 

@@ -35,3 +35,13 @@ This project demonstrates practical skills in data transformation with Power Que
 - 🧮 **3 Calculated Columns**
 - 🎛 **4 Interactive Slicers**
 - 📉 **6+ Interactive Visualizations**
+
+# 📊 Key Performance Indicators (KPIs)
+
+- Total Orders
+- Average Product Cost
+- Average Customer Rating
+- Average Discount Offered
+- Average Product Weight
+- On-Time Delivery Percentage
+- Delayed Delivery Percentage
